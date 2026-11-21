@@ -1,4 +1,4 @@
-# 📖 Habits First: No Page Sync
+# Habits First: No Page Sync
 
 **A [KOReader](https://github.com/koreader/koreader) user patch that stops the [Habits First](https://github.com/reysu/habitsfirst-koreader) plugin from syncing after every page turn.**
 
